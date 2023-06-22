@@ -6,8 +6,9 @@ gitinit-> to initialize the empty repository to track the changes
 git status->shows the status of all the files in the current directory.
 git add . || git add index.html->to track the changes.
 git clone [link of the remote git repository].->to copy the repository from remote (github) to the local system.
-git push
-git pull
+git push-> to push the changes made on local machine to the remote srever like in our case it the github.
+git pull->to pull the changes done on the remote to our own machine.
+
 
 
 
